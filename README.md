@@ -72,3 +72,22 @@ To analyze over 50,000 mobile phone reviews to determine Google's market positio
 Required libraries:
 ```r
 install.packages(c("readr", "ggplot2", "ggcorrplot", "dplyr", "stats"))
+
+### Python (Used for Machine Learning, NLP)
+**Required libraries:**
+
+```bash
+pip install pandas scikit-learn numpy xgboost matplotlib seaborn
+
+## ⚠️ Usage Instructions
+**Note on File Paths:** The scripts in this repository use absolute file paths specific to the author's local machine. Before running any analysis, you must update the working directory to match your local environment.
+
+**For R Scripts:** Look for the setwd() function at the top of the files:
+```R
+# 🔴 CHANGE THIS to your actual folder path
+setwd("C:/path/to/your/repository/Round_Folder")
+
+**For Python Scripts:** Look for the pd.read_csv() function:
+```Python
+# 🔴 CHANGE THIS to your actual file path
+df = pd.read_csv('C:/path/to/your/repository/dataset.csv')
