@@ -1,7 +1,6 @@
 # 📊 NBS Business Analytics Club (BAC) Datathon 2025
 
 **Team:** Moomoo and Friends  
-**Members:** Kow Zi Ting, Yee Zhe Kai (Matthew), Yee Jia En  
 **Event:** Nanyang Business School Business Analytics Club Datathon 2025
 
 ## 📖 Overview
